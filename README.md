@@ -1,0 +1,1 @@
+ A modern and fully responsive coding website designed for developers to learn, explore, and grow. Featuring interactive coding tutorials, trending tech insights, and a developer-friendly UI, this platform ensures an engaging and seamless coding experience across all devices.
